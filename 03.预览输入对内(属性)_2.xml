@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	999999999
+	AKA183
+	销售单对应渠道
+	18011111111
+	AKA183
+	3498076812
+	AKA183
+	AKA183
+	对应销售单场景编码
+	test
+	
+		<sale_order>
+<item_list>
+			
+				<item sn="180111111111" par_sn="KD01000000" asset_id="" opert_ype="新建" root_obj_num="466" bp_num="" bp_addr="" uim="03985485192835084" batch="2">
+<obj_list>
+<obj obj_type="销售品" obj_num="2-1QNALMPO" obj_name="201612-宽带网龄赠送流量视频体验卡" par_obj_num="" root_obj_num="466" opert_ype="订购" asset_id=""/>
+<obj obj_type="销售品" obj_num="2-1QNF54OE" obj_name="201612-流量视频体验卡两年付可选包" par_obj_num="2-1QNALMPO" root_obj_num="466" opert_ype="订购" asset_id=""/>
+<obj obj_type="销售品" obj_num="2-1QNE88CA" obj_name="201612-宽带网龄赠送流量视频体验卡-预存0元" par_obj_num="2-1QNALMPO" root_obj_num="466" opert_ype="订购" asset_id="">
+<attr_list>
+<attr name="1" value="11" old_value="111"/>
+<attr name="2" value="22" old_value="222"/>
+</attr_list>
+</obj>
+</obj_list>
+</item>
+			
+		</item_list>
+</sale_order>
+	
